@@ -1,14 +1,14 @@
 ---
-title: Skin Cancer AI
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
+title: PhD research
+summary: "The application of machine learning methods to satellite \ndata for the
+  management of invasive water hyacinth."
 tags:
-- human
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
+- water hyacinth
+- machine learning
+date: 2016-04-27T00:00:00Z
 external_link: 
-
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo by David Kinsler
   focal_point: Smart
+
 ---
